@@ -14,7 +14,7 @@ import {FcIdea} from "react-icons/fc";
 const timelineDetails = [
   {
     timeline_title: "Code For Good Hackathon",
-    timeline_description: "Recieved Summer Intern offer, and special mention for our prototy[e that solved problems for Youngistaan Foundation",
+    timeline_description: "Recieved Summer Intern offer, and special mention for our prototype that solved problems for Youngistaan Foundation",
     timeline_icon: <SiChainlink />,
     timeline_place: "Bangalore/ Remote",
     timeline_date: "September 2021",

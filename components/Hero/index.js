@@ -98,26 +98,18 @@ const Hero = () => {
                   fontWeight: 500,
                 }}
               >
-                functional and beautiful applications
-              </span>{" "}
-              with passion and a focus on{" "}
+                websites that create an impact
+              </span>{" "}<br></br>
+              I build what you visualize, by making {" "}
               <span
                 style={{
                   color: "var(--chakra-colors-teal-500)",
                   fontWeight: 500,
                 }}
               >
-                user experience
+                user experience as the first priority
               </span>{" "}
-              and{" "}
-              <span
-                style={{
-                  color: "var(--chakra-colors-teal-500)",
-                  fontWeight: 500,
-                }}
-              >
-                high quality.
-              </span>{" "}
+              
             </Text>
             <ButtonGroup gap="1">
               <Button
