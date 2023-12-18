@@ -45,7 +45,7 @@ const CollapseMenu = ({ isOpen, setOpen }) => {
             ))}
           </Stack>
           <ButtonGroup display={{ sm: "flex", xs: "flex" }}>
-            <Button
+            {/* <Button
               as="a"
               target="_blank"
               href="/resume"
@@ -57,7 +57,7 @@ const CollapseMenu = ({ isOpen, setOpen }) => {
               _focus={{ boxShadow: "outline" }}
             >
               Resume
-            </Button>
+            </Button> */}
             <Button
               as="a"
               href="https://cal.com/manishtiwari/"

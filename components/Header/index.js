@@ -90,7 +90,7 @@ const Header = () => {
               <ButtonGroup
                 display={{ base: "flex", md: "flex", sm: "none", xs: "none" }}
               >
-                <Button
+                {/* <Button
                   as="a"
                   target="_blank"
                   href="/resume"
@@ -100,7 +100,7 @@ const Header = () => {
                   colorScheme="teal"
                 >
                   Resume
-                </Button>
+                </Button> */}
                 <Button
                   colorScheme="teal"
                   target="_blank"
